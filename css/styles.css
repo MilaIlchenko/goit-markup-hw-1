@@ -1,0 +1,183 @@
+/* ============== COMMON STYLES ============== */
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    font-family: Raleway;
+}
+
+.accent-color {
+    color: #2E2F42;
+}
+/* ================= /COMMON STYLES ================= */
+
+/* ================= HEADER STYLES ================= */
+
+.logotype {  
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1,17; 
+letter-spacing: 0.03em;
+color: #2E2F42;
+}
+
+.plane-name {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1,17; 
+letter-spacing: 0.03em;
+color: #4D5AE5;
+}
+
+
+.menu-link {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF;
+}
+
+.menu-contact-link {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.32em;
+color: #434455);
+}
+
+.menu-contact-link:hover,
+.menu-contact-link:focus {
+    color: #404BBF;
+}
+
+/* ============== /HEADER STYLES ============== */
+
+/* ============== HERO STYLES ============== */
+
+.main-title {
+font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07; 
+letter-spacing: 0.02em;
+color: #ffffff;
+width: 496px;
+background:#2E2F42;
+text-align: center;
+width: 1440px;
+height: 600px;
+
+}
+
+.order-service-btn {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 32px;
+  background-color: #4D5AE5;
+  color: #ffffff;
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+  background-color: #404BBF;;
+  color:#ffffff;
+}
+
+/* ============== /HERO STYLES ============== */
+
+/* ============== BENEFITS STYLES ============== */
+
+.benefits-list-title {
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; 
+letter-spacing: 0.02em;
+color: #2E2F42;
+ } 
+  
+.benefits-list-text {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* ============== /BENEFITS STYLES ============== */
+
+/* ============== OUR TEAM STYLES ============== */
+
+.team-section-title {
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2E2F42;
+}
+
+.team-members-title {
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.team-members-position {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* ============== OUR TEAM STYLES ============== */
+
+/* ============== FOOTER STYLES ============== */
+
+.plane-name {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1,17; 
+letter-spacing: 0.03em;
+color: #4D5AE5;
+}
+
+.footer-text {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #F4F4FD;
+width: 1440px;
+height: 312px;
+flex-shrink: 0;
+background: #2E2F42;
+}
