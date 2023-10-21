@@ -144,6 +144,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2E2F42;
+background-color: #F4F4FD
 }
 
 .team-members-title {
@@ -153,6 +154,7 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
+background-color: #FFFFFF
 }
 
 .team-members-position {
@@ -168,11 +170,12 @@ color: #434455;
 /* ============== OUR PORTFOLIO STYLES ============== */
 
 .title-three {
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.2; 
+font-family: "Roboto", sans-serifo;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11; 
 letter-spacing: 0.02em;
+text-align: center;
 color: #2E2F42;
 }
 
