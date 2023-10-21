@@ -1,4 +1,11 @@
 /* ============== COMMON STYLES ============== */
+
+body {
+   font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:  #FFFFFF;
+}
+
 .list {
     list-style-type: none;
 }
@@ -10,13 +17,6 @@
 button {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-}
-
-body {
-   font-family: "Raleway", sans-serif;
-   font-family: "Roboto", sans-serif;
-    color: #434455
-    background-color:  #FFFFFF
 }
 
 .accent-color {
@@ -42,6 +42,7 @@ font-size: 18px;
 font-weight: 700;
 line-height: 1.17; 
 letter-spacing: 0.03em;
+text-transform: uppercase;
 color: #4D5AE5;
 }
 
@@ -66,6 +67,7 @@ color: #2E2F42;
 .menu-link:hover,
 .menu-link:focus {
     color: #404BBF;
+    background-color: #2e2f42;
 }
 
 .menu-contact-link {
@@ -73,7 +75,7 @@ font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5; 
-letter-spacing: 0.32em;
+letter-spacing: 0.02em;
 color: #434455;
 }
 
@@ -108,6 +110,7 @@ height: 600px;
   font-family: "Roboto", sans-serif;
   font-size: 6px;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4D5AE5;
@@ -118,6 +121,7 @@ height: 600px;
 .order-service-btn:focus {
   background-color: #404BBF;;
   color:#ffffff;
+  padding: 16px 32px;
 }
 
 /* ============== /HERO STYLES ============== */
