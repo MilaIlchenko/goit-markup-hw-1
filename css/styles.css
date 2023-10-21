@@ -31,11 +31,10 @@ font-style: normal;
 font-weight: 700;
 line-height: 1.17; 
 letter-spacing: 0.03em;
-text-transform: uppercase
 color: #2E2F42;
 }
 
-.plane-name {
+.footer-name {
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
@@ -43,6 +42,45 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4D5AE5;
 }
+
+.footername-span {
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+color: #2E2F42;
+}
+
+.footer-logo {
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .menu-link {
@@ -194,18 +232,26 @@ font-size: 18px;
 font-weight: 700;
 line-height: 1.1; 
 letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #2E2F42);
+}
+
+.footer-span {
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+color: #F4F4FD;
 }
 
 .footer-logo {
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #F4F4FD;
+color: #4D5AE5;
 }
 
 .footer-text {
