@@ -31,9 +31,9 @@ font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17; 
-text-transform: uppercase
 letter-spacing: 0.03em;
-color: #2E2F42;
+color: #4d5ae5;
+text-transform: uppercase
 }
 
 .page-navigation {
@@ -46,7 +46,7 @@ font-size: 18px;
 font-weight: 700;
 line-height: 1.16;
 letter-spacing: 0.03em;
-color: #4D5AE5;
+color: #2e2f42;
 }
 
 .menu-link {
@@ -161,7 +161,7 @@ color: #2E2F42;
 background-color: #F4F4FD;
 }
 
-.team-members{
+.team-members {
     background-color: #F4F4FD;
 }
 
