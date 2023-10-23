@@ -33,6 +33,7 @@ font-weight: 700;
 line-height: 1.17; 
 text-transform: uppercase
 letter-spacing: 0.03em;
+color: #2E2F42;
 }
 
 .page-navigation {
@@ -93,8 +94,6 @@ letter-spacing: 0.02em;
 color: #ffffff;
 background-color:#2E2F42;
 text-align: center;
-width: 1440px;
-height: 600px;
 }
 
 .hero {
@@ -114,9 +113,8 @@ height: 600px;
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  background-color: #404BBF;;
+  background-color: #404BBF;
   color:#ffffff;
-  padding: 16px 32px;
 }
 
 /* ============== /HERO STYLES ============== */
@@ -161,6 +159,10 @@ text-transform: capitalize;
 text-align: center;
 color: #2E2F42;
 background-color: #F4F4FD;
+}
+
+.team-members{
+    background-color: #F4F4FD;
 }
 
 .team-members-title {
@@ -221,17 +223,13 @@ color: #434455;
 
 /* ============== FOOTER STYLES ============== */
 
-.portfolio {
-    background-color: #2e2f42;
-}
-
 .page-footer {
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.11; 
 letter-spacing: 0.03em;
-color: #2E2F42;
+background-color:#2e2f42;
 }
 
 .footer-span {
