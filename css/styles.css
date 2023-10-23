@@ -42,7 +42,7 @@ font-size: 18px;
 font-weight: 700;
 line-height: 1.17; 
 letter-spacing: 0.03em;
-text-transform: uppercase;
+text-transform: uppercase
 color: #4D5AE5;
 }
 
@@ -84,9 +84,8 @@ color: #434455;
     color: #404BBF;
 }
 
-.contact-list {
-font-style: normal; 
-
+.contact {
+font-style: normal 
 }
 
 /* ============== /HEADER STYLES ============== */
@@ -101,7 +100,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 color: #ffffff;
 width: 496px;
-background-color: #F4F4FD;
+background-color:#2E2F42;
 text-align: center;
 width: 1440px;
 height: 600px;
@@ -152,6 +151,7 @@ letter-spacing: 0.02em;
 color: #434455;
 background-color: #F4F4FD;
 }
+
 /* ============== /BENEFITS STYLES ============== */
 
 /* ============== OUR TEAM STYLES ============== */
@@ -175,7 +175,7 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
-background-color: #FFFFFF
+background-color: #F4F4FD
 }
 
 .team-members-position {
@@ -186,6 +186,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
 /* ============== OUR TEAM STYLES ============== */
 
 /* ============== OUR PORTFOLIO STYLES ============== */
@@ -259,9 +260,6 @@ letter-spacing: 0.02em;
 width: 1440px;
 height: 312px;
 color: #F4F4FD;
-}
-
-.footer-logo link {
 background-color: #2e2f42;
 }
 
