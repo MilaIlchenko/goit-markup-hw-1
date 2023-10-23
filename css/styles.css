@@ -33,7 +33,7 @@ font-weight: 700;
 line-height: 1.17; 
 letter-spacing: 0.03em;
 color: #4d5ae5;
-text-transform: uppercase
+text-transform: uppercase;
 }
 
 .page-navigation {
@@ -149,6 +149,10 @@ background-color: #F4F4FD;
 
 /* ============== OUR TEAM STYLES ============== */
 
+.team {
+    background-color: #F4F4FD;
+}
+
 .team-section-title {
 font-family: "Roboto", sans-serifo;
 font-size: 36px;
@@ -162,7 +166,7 @@ background-color: #F4F4FD;
 }
 
 .team-members {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .team-members-title {
